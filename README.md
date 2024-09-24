@@ -9,7 +9,7 @@ Este projeto fornece uma implementação simples para validar e formatar CPF e C
    npm install lib-validator
    ```
 
-4. **Importe a biblioteca em seu componente**. Se você criar seu próprio arquivo `lib-validator.js`, cole o código de validação e formatação de CPF e CNPJ fornecido.
+4. **Importe a biblioteca em seu componente**.
 
 ## Uso
 

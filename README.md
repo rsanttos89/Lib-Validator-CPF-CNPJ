@@ -5,21 +5,6 @@ Orientação de instalação da biblioteca e uma descrição detalhada de como u
 
 Este projeto fornece uma implementação simples para validar e formatar CPF e CNPJ em tempo real enquanto o usuário digita. O código utiliza a biblioteca `lib-validator` para facilitar a validação e formatação.
 
-## Instalação
-
-Para usar a biblioteca, siga os passos abaixo:
-
-1. **Clone o repositório ou crie um novo projeto React**:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
-   ```
-
-2. **Instale as dependências necessárias**:
-   ```bash
-   npm install
-   ```
-
 3. **Instale a biblioteca `lib-validator`**:
    ```bash
    npm install lib-validator

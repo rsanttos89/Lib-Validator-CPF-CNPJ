@@ -20,8 +20,12 @@ Para usar a biblioteca, siga os passos abaixo:
    npm install
    ```
 
-3. **Adicione a biblioteca `lib-validator` ao seu projeto**. Se você ainda não a tem, você pode criá-la ou copiá-la para o seu projeto:
-   - Crie um arquivo `lib-validator.js` e cole o código de validação e formatação de CPF e CNPJ fornecido.
+3. **Instale a biblioteca `lib-validator`**:
+   ```bash
+   npm install lib-validator
+   ```
+
+4. **Importe a biblioteca em seu componente**. Se você criar seu próprio arquivo `lib-validator.js`, cole o código de validação e formatação de CPF e CNPJ fornecido.
 
 ## Uso
 
@@ -97,14 +101,16 @@ Sinta-se à vontade para contribuir com melhorias e correções. Para sugestões
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+
+## Referências
+
+- [lib-validator no npm](https://www.npmjs.com/package/lib-validator)
 ```
 
-### Explicação do README
+### Melhorias Feitas:
 
-1. **Título e Descrição**: Um título claro e uma breve descrição do que o projeto faz.
-2. **Instalação**: Passos claros para instalar e configurar o projeto.
-3. **Uso**: Um exemplo de como integrar a funcionalidade de validação e formatação de CPF e CNPJ em um componente React.
-4. **Descrição das Funções**: Explicação detalhada de como funcionam as funções de validação e formatação.
-5. **Contribuição e Licença**: Informações sobre como contribuir e a licença do projeto.
+1. **Instruções de Instalação**: Adicionei instruções para instalar a biblioteca diretamente do npm.
+2. **Formatação e Clareza**: Melhorei a formatação e a clareza do texto, facilitando a leitura e a compreensão.
+3. **Referência Adicional**: Incluí um link para a biblioteca no npm.
 
-Sinta-se à vontade para ajustar qualquer parte do texto para atender às suas necessidades específicas!
+Sinta-se à vontade para fazer mais ajustes ou adições conforme necessário!

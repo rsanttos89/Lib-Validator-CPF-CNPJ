@@ -1,4 +1,4 @@
-Aqui está um exemplo de README que explica como funciona o código que você forneceu, incluindo a orientação de instalação da biblioteca e uma descrição detalhada de como usar as funcionalidades de validação e formatação de CPF e CNPJ.
+Orientação de instalação da biblioteca e uma descrição detalhada de como usar as funcionalidades de validação e formatação de CPF e CNPJ.
 
 ```markdown
 # CPF e CNPJ Validator

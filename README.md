@@ -1,6 +1,5 @@
 Orientação de instalação da biblioteca e uma descrição detalhada de como usar as funcionalidades de validação e formatação de CPF e CNPJ.
 
-```markdown
 # CPF e CNPJ Validator
 
 Este projeto fornece uma implementação simples para validar e formatar CPF e CNPJ em tempo real enquanto o usuário digita. O código utiliza a biblioteca `lib-validator` para facilitar a validação e formatação.
